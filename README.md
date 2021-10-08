@@ -1,6 +1,6 @@
 # FP-Tree
 Frequency Pattern Tree
-![Untitled Workspace](https://user-images.githubusercontent.com/53970116/136591000-47a9f48a-41ba-4c5f-a688-844815e1da49.png)
+
 <pre>
 T1 {5,1,2} 
 T2 {4,2} 
