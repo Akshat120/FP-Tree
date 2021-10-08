@@ -1,5 +1,5 @@
 # FP-Tree
-Frequency Pattern Tree
+### Frequency Pattern Tree
 <div> <img src="image/image.png" width="400px"> </div>
 <pre>
 T1 {5,1,2} 
