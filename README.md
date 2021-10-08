@@ -1,5 +1,6 @@
 # FP-Tree
 Frequency Pattern Tree
+<pre>
 T1 {5,1,2} 
 T2 {4,2} 
 T3 {3,2} 
@@ -54,3 +55,4 @@ Proceeding Node 1
 ( 3 , 2): (1 ,2), 
 ( 1 , 2): (6 ,1), 
 ( 6 , 1): 
+</pre>
